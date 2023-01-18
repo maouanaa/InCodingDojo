@@ -1,0 +1,30 @@
+*{
+    margin: 4px;
+    padding: 3px;
+}
+#search{ width: 250px;
+    height: 45px;
+    
+border-radius: 25px;
+border-color: rgb(32, 104, 104);
+color:rgb(32, 104, 104);
+border-width: 5px;
+}
+#plus{
+
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    color:white;
+    background-color:rgb(14, 68, 68) ; 
+    font-size: 45px;
+    border-width: 0;
+
+}
+#create{ 
+box-shadow: 7px 7px;
+width: 280px;
+height: 40px;
+background-color: blue;
+color: black;
+}

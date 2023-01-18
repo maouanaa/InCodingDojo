@@ -1,0 +1,33 @@
+* {
+    margin: 2px;
+    padding: 2px;
+}
+h1{
+    color: aqua;
+    background: rgb(15, 14, 15);
+   font-size: 40px;
+   font-family: cursive;
+   font-weight: 800;
+    }
+span{
+    color: white
+}
+h2{
+    color: white;
+    background-color: rgb(100, 29, 166);
+  
+    text-align: center;
+        font-size: 35px;
+        font-family: sans-serif;
+        font-weight: 400;
+        font-style: italic;
+    }
+h3{
+    text-align: end;
+    background: rgb(148, 179, 232);
+   
+    text-decoration: underline;
+    font-size: 30px;
+    font-family: serif;
+     font-weight: 100;
+}
