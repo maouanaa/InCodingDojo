@@ -1,0 +1,105 @@
+h1{
+    font-family: cursive;
+}
+.navbar{
+    width: 1000px;
+    height: 100px;
+    display: flex;
+   justify-content: space-around;
+   align-items: center;
+   margin-left: 230px;
+    
+    background-color: rgb(204,204,204);
+    
+
+}
+#in{
+    width: 400px;
+    height: 30px;
+    border: 3px solid black;
+}
+#login{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(43,120,228);
+    color: white;
+    box-shadow: 4px 4px black;
+}
+
+
+
+
+.left{
+    width: 700px;
+    height: 600px;
+  
+    margin-left: 230px;
+}
+.main{
+    margin-top: 40px;
+    display: flex;
+
+  
+}
+.topleft{
+    width: 700px;
+    height: 280px;
+    border: 3px solid black;
+    display: flex; 
+}
+.downleft{
+    width: 700px;
+    height: 280px;
+    border: 3px solid black;
+    margin-top: 30px;
+}
+.right{
+width: 260px;
+height: 240px;
+border: 3px solid black;
+margin-left: 40px;
+}
+.yellow{
+    width: 90px;
+    height: 40px;
+    background-color: rgb(255,217,102);
+    box-shadow: 3px 3px black;
+    font-family: cursive;
+    font-weight: 700;
+}
+.topleftt{
+    margin-left: 40px;
+}
+.pp{
+margin: 70px 70px;
+font-size: 20px;
+font-weight: 900;
+font-family: cursive;
+}
+.pp a {
+    color:rgb(22,92,154);
+}
+.downleft{
+    display: flex;
+}
+span{
+    font-size: 30px;
+}
+.right{
+    font-family: cursive;
+}
+.right button{
+    background-color: rgb(147,196,125);
+    width: 200px;
+    height: 50px; 
+    border: 3px solid black;
+    margin-left: 25px;
+    box-shadow: 3px 3px black;
+    margin-top: 20px;
+    font-family: cursive;
+    font-weight: 400;
+    font-size: 15px;
+}
+.right h2{
+    margin-left: 25px;
+}
