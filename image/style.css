@@ -1,0 +1,59 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#header{
+    
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    height: 70px;
+    align-items: center;
+}
+#containe{
+    margin: 0 auto;
+    width: 970px;
+    background-color: rgb(21, 24, 24);
+    
+    
+}
+
+
+
+
+.topmain{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 10px;
+   
+}
+.aboutme{
+    background-color: beige;
+    width: 60%;
+    margin-bottom: 15px;
+   
+}
+h2{
+    padding: 5px;
+    color: white;
+    background-color: gray;
+}
+.aboutme > p{
+    padding: 7px;
+
+}
+.aboutme>a{
+    padding: 20px;
+}
+#ff{border: 5px solid black;
+width:400px ;
+height: 180px;
+margin: 10px 10px;}
+
+#leftbottommain{
+    width: 300px;
+    background-color: beige;
+    margin-left: 15px;
+}
+    

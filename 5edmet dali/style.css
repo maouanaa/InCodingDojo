@@ -1,0 +1,54 @@
+/* Reset defult Style */
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+/* Container Styling */
+#container {
+    margin: 0 auto;  /* To center the container*/
+    width: 970px;
+    /*background-color: rgb(188, 188, 203);  Just To check the result*/
+}
+
+#header {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#main {
+    background-color: #2F1E24;
+    padding: 15px;
+}
+
+.top-main {
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+#my-img {
+    width: 400px;
+    height: 300px;
+    border: 5px solid gray;
+}
+.about-me {
+    width: 500px;
+    background-color: rgb(227,215,226);
+}
+h2 {
+    color: white;
+    background-color: gray;
+    padding: 5px;
+}
+.about-me > p {
+    padding: 10px;
+}
+.about-me a {
+    padding: 10px;
+}
+.article {
+    width: 300px;
+    background-color: rgb(227,215,226);
+}

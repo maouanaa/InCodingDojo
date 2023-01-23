@@ -1,0 +1,38 @@
+.nav{
+    display: flex;
+    background-color: rgb(40, 34, 34);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    }
+.nav-links{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+   width: 50%;
+    }
+    .nav-title{
+        color: white;
+        margin: 5px 20px;
+        font-family:cursive;
+        font-size: 40px;
+        align-items: center;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+        font-family: cursive;
+    }
+    .btn{
+        background-color:aqua;
+        color: white;
+        width: 105px;
+        height: 35px;
+        font-family: cursive;
+        border: solid 4px black;
+        box-shadow: 4px 4px black ;
+    }
+    .active{
+        font-weight:600;
+    }

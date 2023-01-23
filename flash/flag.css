@@ -26,21 +26,21 @@
     height: 200px;
     width: 210px;
     background-color: yellow;
-    margin-top: 15px;
-    margin-right: 7px;
+    margin: 15px 15px;
     
 }
 #advertisement {
     height: 120px;
     width: 660px;
     background-color: purple;
-    margin-top: 27px;
-    margin-left: 18px;
+   margin: 15px 7px;
 }
 .row {
     /* TODO - what should go here? */
     display: flex;
     justify-content: space-evenly;
+    
+
    
 }
 

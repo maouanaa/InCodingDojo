@@ -1,0 +1,49 @@
+#blocks{
+    width: 60%;
+    background-color: silver;
+    display: flex;
+    flex-direction: column;
+}
+.first{
+    background-color:rgb(46, 148, 188) ;
+    
+    justify-content: space-between;
+    display: flex;
+    padding: 20px;
+    margin: 20px 20px;
+}
+    
+
+  
+.second{
+    background-color:pink ;
+    
+    display: flex;
+    padding: 20px;
+    margin: 0px 20px;
+    justify-content: space-evenly;
+   
+    
+}
+.third{
+    background-color: aliceblue;
+    justify-content: space-between;
+  display: flex;
+    padding: 20px;
+    margin: 20px 20px;
+  
+    
+
+}
+img{
+    height: 200px;
+    background-color: white;
+}
+h1{
+  text-align: center;
+}
+p{
+    text-align: center;
+    font-family: sans-serif;
+    color: rgb(95, 90, 90);
+}

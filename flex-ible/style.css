@@ -1,0 +1,38 @@
+
+.row {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    flex-shrink: 100%;
+    color: white;
+
+
+}
+
+.col {
+    background-color: rgb(19, 60, 60);
+    
+    margin: 20px;
+    flex: 1;
+padding: 30px;
+
+
+
+}
+
+.col-2 {
+   background-color: rgb(19, 60, 60);
+    
+    margin: 20px;
+    flex: 2;
+padding: 30px;
+}
+
+.col-3 {
+  background-color: rgb(19, 60, 60);
+   
+    margin: 20px;
+flex: 3;
+padding: 30px;
+
+}
