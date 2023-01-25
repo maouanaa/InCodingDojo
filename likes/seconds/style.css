@@ -71,6 +71,14 @@ padding-top: 10px;
     font-size: 18px;
     box-shadow: 3px 3px black;
 }
+#btn:hover {
+    background-color: brown;
+}
+#btn:active {
+    box-shadow: none;
+    background-color:rgb(233, 223, 223);
+}
+
 p,h2,button{
     font-family: cursive;
     font-weight: 600;
