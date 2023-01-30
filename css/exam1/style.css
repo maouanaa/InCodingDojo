@@ -9,9 +9,10 @@
     margin: 0 auto;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 700;
-    /*end styling countainer  */
-    /* start styling navbar */
 }
+
+/*end styling countainer  */
+/* start styling navbar */
 
 .navbar {
     width: 1000px;
@@ -57,7 +58,7 @@ input {
 }
 
 /* end styling title */
-/* statr styling main */
+/* statr styling top main */
 
 .topmain {
     display: flex;
@@ -152,6 +153,7 @@ input {
     background-color: white;
 }
 
+/* stylikng button mesaage */
 .message button {
     border: 2px solid black;
     background-color: rgb(0, 209, 178);
@@ -160,3 +162,5 @@ input {
     box-shadow: 3px 3px black;
 
 }
+
+/* finish styling button */
